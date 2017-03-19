@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MODEL>
+    <tacsymbol>
+        <MIL_ID>SFGAUUS---AK---</MIL_ID>
+        <NAME>JERRY</NAME>
+        <POSITION>34.808217 -110.627300</POSITION>
+    </tacsymbol>
+    <CREATE_TIME>1409335738</CREATE_TIME>
+    <MODIFIED_TIME>1409335738</MODIFIED_TIME>
+    <NAME>Stest</NAME>
+</MODEL>

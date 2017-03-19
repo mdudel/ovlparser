@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<MODEL xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <tacsymbol>
+      <MIL_ID>SFGPUUE--------</MIL_ID>
+      <NAME>Explosive Ordinance Disposal</NAME>
+      <ENTITY_ID>CF63D86E-A1A9-69CB-470B-FB0C84256916</ENTITY_ID>
+      <REMARKS/>
+      <SIZE>26</SIZE>
+      <MODIFIED_TIME>1395848545</MODIFIED_TIME>
+      <T>Explosive Ordinance Disposal</T>
+      <T_VIS>true</T_VIS>
+      <POSITION>47.27004 -101.49301</POSITION>
+   </tacsymbol>
+   <CREATE_TIME>1395848545</CREATE_TIME>
+   <NAME>SIGACT OVERLAY</NAME>
+   <SOURCE>CMDWEB</SOURCE>
+   <READ_ONLY>true</READ_ONLY>
+   <REMARKS>classification=U, ownerProducer=BCWeb</REMARKS>
+</MODEL>

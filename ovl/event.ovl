@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MODEL>
+    <tacsymbol>
+        <MIL_ID>OHOPA----------</MIL_ID>
+        <NAME>Arrest</NAME>
+        <POSITION>45.148265 -102.930680</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>OHVPA----------</MIL_ID>
+        <NAME>Arson/Fire</NAME>
+        <POSITION>46.808902 -97.863543</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>OHVPMC---------</MIL_ID>
+        <NAME>Assassination</NAME>
+        <POSITION>43.633643 -94.057733</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>OHOPKA---------</MIL_ID>
+        <NAME>Attempted Kidnapping</NAME>
+        <POSITION>40.501258 -94.549217</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>OHRPA----------</MIL_ID>
+        <NAME>Attempted Rape</NAME>
+        <POSITION>41.345745 -104.241177</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>OHLPB----------</MIL_ID>
+        <NAME>Black List Location</NAME>
+        <POSITION>51.931082 -107.467094</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>OHOPI----------</MIL_ID>
+        <NAME>Black Marketing</NAME>
+        <POSITION>39.062413 -83.732758</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>OHVPB----------</MIL_ID>
+        <NAME>Bomb/Bombing</NAME>
+        <POSITION>48.759514 -106.349950</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>OHVPY----------</MIL_ID>
+        <NAME>Booby Trap</NAME>
+        <POSITION>36.370241 -84.679523</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>OHLPN-----H----</MIL_ID>
+        <NAME>Cave Entrance</NAME>
+        <POSITION>36.883825 -93.062263</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>OHIPF----------</MIL_ID>
+        <NAME>Civil Rioting</NAME>
+        <POSITION>37.498979 -99.783574</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>OHIPF----------</MIL_ID>
+        <NAME>Criminal Activity Incident</NAME>
+        <POSITION>33.884619 -85.158865</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>OHPPD----------</MIL_ID>
+        <NAME>Dead Body</NAME>
+        <POSITION>34.097764 -92.494205</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>OHOPD----------</MIL_ID>
+        <NAME>Demonstration</NAME>
+        <POSITION>34.519732 -99.124612</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>OHVPD----------</MIL_ID>
+        <NAME>Drive-By Shooting</NAME>
+        <POSITION>31.502311 -85.583518</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>OHLPE-----H----</MIL_ID>
+        <NAME>Drug Lab</NAME>
+        <POSITION>32.075861 -92.597000</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>OHOPU----------</MIL_ID>
+        <NAME>Drug Operation</NAME>
+        <POSITION>32.102597 -99.335257</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>OHOPUT---------</MIL_ID>
+        <NAME>Drug Trafficking</NAME>
+        <POSITION>42.064145 -82.921013</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>OHIPD----------</MIL_ID>
+        <NAME>Drug Vehicle</NAME>
+        <POSITION>46.049119 -89.146588</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>OHVPMB---------</MIL_ID>
+        <NAME>Execution</NAME>
+        <POSITION>44.924106 -78.465841</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>OHPPG----------</MIL_ID>
+        <NAME>Exfiltrating Individual</NAME>
+        <POSITION>49.556012 -89.735270</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>OHVPE----------</MIL_ID>
+        <NAME>Explosion</NAME>
+        <POSITION>47.604927 -76.796752</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>OHIPF----------</MIL_ID>
+        <NAME>Explosion (Bomb)</NAME>
+        <POSITION>28.911436 -82.223839</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>OHVPEG---------</MIL_ID>
+        <NAME>Explosion, Grenade</NAME>
+        <POSITION>27.115617 -81.649584</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>OHVPEN---------</MIL_ID>
+        <NAME>Explosion, Incendiary</NAME>
+        <POSITION>37.753752 -109.096625</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>OHVPEM---------</MIL_ID>
+        <NAME>Explosion, Mine</NAME>
+        <POSITION>35.526149 -108.288450</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>OHVPEO---------</MIL_ID>
+        <NAME>Explosion, Mortar Fire</NAME>
+        <POSITION>32.891738 -107.916134</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>OHVPER---------</MIL_ID>
+        <NAME>Explosion, Rocket</NAME>
+        <POSITION>30.944631 -107.385785</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>OHVPEV---------</MIL_ID>
+        <NAME>Explosion, Wheeled Vehicle</NAME>
+        <POSITION>29.662581 -90.742556</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>OHOPE----------</MIL_ID>
+        <NAME>Extortion</NAME>
+        <POSITION>50.002000 -73.279428</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>OHOPO----------</MIL_ID>
+        <NAME>Food Distribution</NAME>
+        <POSITION>54.508520 -92.784322</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>OHOPF----------</MIL_ID>
+        <NAME>Foraging/Searching</NAME>
+        <POSITION>43.866562 -108.458878</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>OHGPE----------</MIL_ID>
+        <NAME>Foreign Fighter</NAME>
+        <POSITION>29.777841 -98.335666</POSITION>
+    </tacsymbol>
+    <CREATE_TIME>1410880222</CREATE_TIME>
+    <MODIFIED_TIME>1410880222</MODIFIED_TIME>
+    <NAME>event</NAME>
+</MODEL>

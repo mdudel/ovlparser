@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<MODEL xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <tacsymbol>
+      <MIL_ID>OHVPY----------</MIL_ID>
+      <NAME>Booby Trap</NAME>
+      <ENTITY_ID>E875436B-5655-64B3-7954-FB0C0AF7FF8C</ENTITY_ID>
+      <REMARKS/>
+      <SIZE>26</SIZE>
+      <MODIFIED_TIME>1395848504</MODIFIED_TIME>
+      <POSITION>31.614709 -90.919611</POSITION>
+   </tacsymbol>
+   <CREATE_TIME>1395848504</CREATE_TIME>
+   <NAME>SIGACT OVERLAY</NAME>
+   <SOURCE>CMDWEB</SOURCE>
+   <READ_ONLY>true</READ_ONLY>
+   <REMARKS>classification=U, ownerProducer=BCWeb</REMARKS>
+</MODEL>

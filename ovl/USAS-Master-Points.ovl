@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MODEL>
+    <milbobject>
+        <MIL_ID>GFGPAPP-------X</MIL_ID>
+        <NAME>Air Control Points ACP</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <LINE_COLOR>0 0 0</LINE_COLOR>
+        <SIZE>26.0</SIZE>
+        <POSITION>31.757744 -98.654914</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFGPGPPK------X</MIL_ID>
+        <NAME>Check Point</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <LINE_COLOR>0 0 0</LINE_COLOR>
+        <SIZE>26.0</SIZE>
+        <POSITION>31.651651 -98.827884</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFGPAPC-------X</MIL_ID>
+        <NAME>Communication Checkpoint CCP</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <LINE_COLOR>0 0 0</LINE_COLOR>
+        <SIZE>26.0</SIZE>
+        <POSITION>31.503716 -98.725505</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFGPGPPC------X</MIL_ID>
+        <NAME>Contact Point</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <LINE_COLOR>0 0 0</LINE_COLOR>
+        <SIZE>26.0</SIZE>
+        <POSITION>31.388102 -99.032719</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFGPGPPO------X</MIL_ID>
+        <NAME>Coordination Point</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <LINE_COLOR>0 0 0</LINE_COLOR>
+        <SIZE>26.0</SIZE>
+        <POSITION>31.295693 -98.886825</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFGPAPD-------X</MIL_ID>
+        <NAME>Downed Aircrew Pickup Point 10</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <LINE_COLOR>0 0 0</LINE_COLOR>
+        <POSITION>31.651651 -98.827884</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFGPGPPL------X</MIL_ID>
+        <NAME>Linkup Point</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <LINE_COLOR>0 0 0</LINE_COLOR>
+        <SIZE>26.0</SIZE>
+        <POSITION>31.581839 -99.333153</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFSPPM--------X</MIL_ID>
+        <NAME>Maintenance Collection Point 1</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <LINE_COLOR>0 0 0</LINE_COLOR>
+        <SIZE>26.0</SIZE>
+        <POSITION>32.000493 -99.122916</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFGPDPO-------X</MIL_ID>
+        <NAME>Observation Post/Outpost</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <LINE_COLOR>0 0 0</LINE_COLOR>
+        <SIZE>26.0</SIZE>
+        <POSITION>31.993632 -98.480598</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFGPGPPP------X</MIL_ID>
+        <NAME>Passage Point</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <LINE_COLOR>0 0 0</LINE_COLOR>
+        <SIZE>26.0</SIZE>
+        <POSITION>31.616332 -98.332441</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFGPGPPR------X</MIL_ID>
+        <NAME>Rally Point</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <LINE_COLOR>0 0 0</LINE_COLOR>
+        <SIZE>26.0</SIZE>
+        <POSITION>31.340959 -98.348153</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFGPGPPE------X</MIL_ID>
+        <NAME>Release Point</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <LINE_COLOR>0 0 0</LINE_COLOR>
+        <SIZE>26.0</SIZE>
+        <POSITION>31.112167 -98.496626</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFGPGPPS------X</MIL_ID>
+        <NAME>Start Point</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <LINE_COLOR>0 0 0</LINE_COLOR>
+        <SIZE>26.0</SIZE>
+        <POSITION>31.522197 -98.065407</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFGPGPPW------X</MIL_ID>
+        <NAME>Waypoint</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <LINE_COLOR>0 0 0</LINE_COLOR>
+        <SIZE>26.0</SIZE>
+        <POSITION>31.344156 -98.086553</POSITION>
+    </milbobject>
+    <CREATE_TIME>1410889299</CREATE_TIME>
+    <MODIFIED_TIME>1410889299</MODIFIED_TIME>
+    <NAME>USAS Master Points</NAME>
+</MODEL>

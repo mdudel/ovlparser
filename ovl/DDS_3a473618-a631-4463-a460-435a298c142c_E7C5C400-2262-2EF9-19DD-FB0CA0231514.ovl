@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<MODEL xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <tacsymbol>
+      <MIL_ID>SFGPUCS--------</MIL_ID>
+      <NAME>Internal Security Forces</NAME>
+      <ENTITY_ID>E7C5C400-2262-2EF9-19DD-FB0CA0231514</ENTITY_ID>
+      <REMARKS/>
+      <SIZE>26</SIZE>
+      <MODIFIED_TIME>1395848458</MODIFIED_TIME>
+      <T>Internal Security Forces</T>
+      <T_VIS>true</T_VIS>
+      <POSITION>42.304264 -71.339085</POSITION>
+   </tacsymbol>
+   <CREATE_TIME>1395848458</CREATE_TIME>
+   <NAME>SIGACT OVERLAY</NAME>
+   <SOURCE>CMDWEB</SOURCE>
+   <READ_ONLY>true</READ_ONLY>
+   <REMARKS>classification=U, ownerProducer=BCWeb</REMARKS>
+</MODEL>

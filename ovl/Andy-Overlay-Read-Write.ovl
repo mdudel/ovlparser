@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MODEL>
+    <milbobject>
+        <MIL_ID>GFGPGPPK------X</MIL_ID>
+        <NAME>Check Point</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <LINE_COLOR>0 0 0</LINE_COLOR>
+        <SIZE>26.0</SIZE>
+        <POSITION>26.790966 -81.490169</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFGPAPC-------X</MIL_ID>
+        <NAME>Communication Checkpoint CCP</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <LINE_COLOR>0 0 0</LINE_COLOR>
+        <SIZE>26.0</SIZE>
+        <POSITION>33.719020 -95.960888</POSITION>
+    </milbobject>
+    <CREATE_TIME>1410371107</CREATE_TIME>
+    <MODIFIED_TIME>1410371107</MODIFIED_TIME>
+    <NAME>Andy Overlay Read Write</NAME>
+</MODEL>

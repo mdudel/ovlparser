@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<MODEL xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <tacsymbol>
+      <MIL_ID>OHVPE----------</MIL_ID>
+      <NAME>Explosion</NAME>
+      <ENTITY_ID>CD24D942-4325-CE91-A6EB-0A11BA24082D</ENTITY_ID>
+      <REMARKS/>
+      <SIZE>26</SIZE>
+      <MODIFIED_TIME>1396033305</MODIFIED_TIME>
+      <POSITION>-9.940744 -122.500195</POSITION>
+   </tacsymbol>
+   <CREATE_TIME>1396033305</CREATE_TIME>
+   <NAME>SIGACT OVERLAY</NAME>
+   <SOURCE>CMDWEB</SOURCE>
+   <READ_ONLY>true</READ_ONLY>
+   <REMARKS>classification=U, ownerProducer=BCWeb</REMARKS>
+</MODEL>

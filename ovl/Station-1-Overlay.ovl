@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MODEL>
+    <milbobject>
+        <MIL_ID>GFGPGPPK------X</MIL_ID>
+        <NAME>Check Point</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <LINE_COLOR>0 0 0</LINE_COLOR>
+        <SIZE>26.0</SIZE>
+        <POSITION>40.336565 -77.743941</POSITION>
+    </milbobject>
+    <CREATE_TIME>1410540930</CREATE_TIME>
+    <MODIFIED_TIME>1410540930</MODIFIED_TIME>
+    <NAME>Station 1 Overlay</NAME>
+</MODEL>

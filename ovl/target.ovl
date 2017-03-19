@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MODEL>
+    <milbobject>
+        <MIL_ID>GFFPAT--------X</MIL_ID>
+        <NAME>Area Target</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <LINE_COLOR>0 0 0</LINE_COLOR>
+        <LABEL_POSITION>48.39602433 5.06302867</LABEL_POSITION>
+        <POSITION>49.205893 7.615012</POSITION>
+        <POSITION>46.582173 4.354530</POSITION>
+        <POSITION>49.400007 3.219544</POSITION>
+    </milbobject>
+    <CREATE_TIME>1410890713</CREATE_TIME>
+    <MODIFIED_TIME>1410890713</MODIFIED_TIME>
+    <NAME>target</NAME>
+</MODEL>

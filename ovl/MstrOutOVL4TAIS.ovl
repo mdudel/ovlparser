@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MODEL>
+    <tacsymbol>
+        <MIL_ID>SFGPUCA----H---</MIL_ID>
+        <NAME>Armor</NAME>
+        <POSITION>40.884876 -4.520620</POSITION>
+    </tacsymbol>
+    <milbobject>
+        <MIL_ID>GFGPGAA----H--X</MIL_ID>
+        <NAME>Assembly Area</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <LINE_COLOR>0 0 0</LINE_COLOR>
+        <N></N>
+        <N_VIS>false</N_VIS>
+        <T>T</T>
+        <T_VIS>true</T_VIS>
+        <LABEL_POSITION>39.77567908 -5.35128475</LABEL_POSITION>
+        <POSITION>39.184120 -6.920240</POSITION>
+        <POSITION>40.292054 -6.823423</POSITION>
+        <POSITION>40.790872 -5.908550</POSITION>
+        <POSITION>41.066838 -4.711083</POSITION>
+        <POSITION>40.970199 -4.098680</POSITION>
+        <POSITION>40.624894 -3.184382</POSITION>
+        <POSITION>39.704220 -3.037260</POSITION>
+        <POSITION>38.933004 -4.277715</POSITION>
+        <POSITION>38.865191 -5.734479</POSITION>
+        <POSITION>38.958919 -6.506535</POSITION>
+        <POSITION>38.958919 -6.506535</POSITION>
+        <POSITION>38.958919 -6.506535</POSITION>
+    </milbobject>
+    <tacsymbol>
+        <MIL_ID>OHVPE----------</MIL_ID>
+        <NAME>Explosion</NAME>
+        <POSITION>32.320919 -2.969670</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>OHVPEG---------</MIL_ID>
+        <NAME>Explosion, Grenade</NAME>
+        <POSITION>38.745687 -0.870675</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>OHVPEN---------</MIL_ID>
+        <NAME>Explosion, Incendiary</NAME>
+        <POSITION>37.104225 -3.688638</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>OHVPEG---------</MIL_ID>
+        <NAME>Explosion, Grenade</NAME>
+        <POSITION>37.946357 -1.961274</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>SFGPUCV--------</MIL_ID>
+        <NAME>Aviation</NAME>
+        <POSITION>39.835659 -4.812179</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>SFGPUCDM---H---</MIL_ID>
+        <NAME>Air Defense Jerry WAN</NAME>
+        <POSITION>40.632717 -5.561164</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>SHGPUCI----H---</MIL_ID>
+        <NAME>Infantry Guy</NAME>
+        <POSITION>39.860118 -5.684607</POSITION>
+    </tacsymbol>
+    <milbobject>
+        <MIL_ID>GFFPLF--------X</MIL_ID>
+        <NAME>Fire Support Coordination Line</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <LINE_COLOR>0 0 0</LINE_COLOR>
+        <POSITION>41.352154 -6.151888</POSITION>
+        <POSITION>41.585548 -5.143154</POSITION>
+        <POSITION>41.514786 -3.998743</POSITION>
+        <POSITION>41.129055 -2.870774</POSITION>
+        <POSITION>40.579826 -2.183128</POSITION>
+        <POSITION>39.447109 -0.335600</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GHGAGLC----I--X</MIL_ID>
+        <NAME>Line of Contact</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <LINE_COLOR>255 0 0</LINE_COLOR>
+        <N>ENY</N>
+        <N_VIS>true</N_VIS>
+        <POSITION>37.562252 -4.490075</POSITION>
+        <POSITION>37.811245 -3.206831</POSITION>
+        <POSITION>38.897594 -1.817203</POSITION>
+        <POSITION>39.219139 -1.071888</POSITION>
+        <POSITION>39.151737 -0.353073</POSITION>
+    </milbobject>
+    <CREATE_TIME>1409335742</CREATE_TIME>
+    <MODIFIED_TIME>1409335742</MODIFIED_TIME>
+    <NAME>MstrOutOVL4TAIS</NAME>
+</MODEL>

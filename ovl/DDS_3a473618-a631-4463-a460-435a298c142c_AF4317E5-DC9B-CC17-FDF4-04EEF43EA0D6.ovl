@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<MODEL xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <tacsymbol>
+      <MIL_ID>SFGPUUI--------</MIL_ID>
+      <NAME>Information Warfare</NAME>
+      <ENTITY_ID>AF4317E5-DC9B-CC17-FDF4-04EEF43EA0D6</ENTITY_ID>
+      <REMARKS/>
+      <SIZE>26</SIZE>
+      <MODIFIED_TIME>1395947140</MODIFIED_TIME>
+      <T>Information Warfare</T>
+      <T_VIS>true</T_VIS>
+      <POSITION>8.032886 -57.268316</POSITION>
+   </tacsymbol>
+   <CREATE_TIME>1395947140</CREATE_TIME>
+   <NAME>SIGACT OVERLAY</NAME>
+   <SOURCE>CMDWEB</SOURCE>
+   <READ_ONLY>true</READ_ONLY>
+   <REMARKS>classification=U, ownerProducer=BCWeb</REMARKS>
+</MODEL>

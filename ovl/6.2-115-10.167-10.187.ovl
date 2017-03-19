@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MODEL>
+    <milbobject>
+        <MIL_ID>GFMPOWCS------X</MIL_ID>
+        <NAME>10.181</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <POSITION>32.587365 44.040578</POSITION>
+        <POSITION>32.587139 44.078914</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFMPOWU-------X</MIL_ID>
+        <NAME>10.185</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <POSITION>32.569561 43.973841</POSITION>
+        <POSITION>32.569558 44.013995</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFFPPTN-------X</MIL_ID>
+        <NAME>10.174</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <POSITION>32.603678 43.975578</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFFPLTF-------X</MIL_ID>
+        <NAME>10.173</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <POSITION>32.620128 44.063601</POSITION>
+        <POSITION>32.620122 44.090699</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFMPOWS-------X</MIL_ID>
+        <NAME>10.182</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <POSITION>32.579906 43.973216</POSITION>
+        <POSITION>32.580011 44.012355</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFMPBCF-------X</MIL_ID>
+        <NAME>10.186</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <POSITION>32.569345 44.022969</POSITION>
+        <POSITION>32.569220 44.051322</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFMPBCD-------X</MIL_ID>
+        <NAME>10.187</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <POSITION>32.569206 44.061559</POSITION>
+        <POSITION>32.569408 44.090415</POSITION>
+        <POSITION>32.564626 44.076033</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFFPLTS-------X</MIL_ID>
+        <NAME>10.171</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <POSITION>32.621408 44.025882</POSITION>
+        <POSITION>32.621518 44.054364</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFMPOWL-------X</MIL_ID>
+        <NAME>10.180</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <POSITION>32.588116 43.992205</POSITION>
+        <POSITION>32.588113 44.028856</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFFPATR-------X</MIL_ID>
+        <NAME>10.175</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <LABEL_POSITION>32.59877800 43.99259500</LABEL_POSITION>
+        <POSITION>32.598778 43.992595</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFFPACPR------X</MIL_ID>
+        <NAME>10.168</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <LABEL_POSITION>32.63261750 44.03815500</LABEL_POSITION>
+        <POSITION>32.632724 44.054995</POSITION>
+        <POSITION>32.632511 44.021315</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFGPGPPA------X</MIL_ID>
+        <NAME>10.169</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <POSITION>32.628345 44.076789</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFMPOWCD------X</MIL_ID>
+        <NAME>10.178</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <POSITION>32.596436 44.008569</POSITION>
+        <POSITION>32.596221 44.047390</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFFPATB-------X</MIL_ID>
+        <NAME>10.167</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <LABEL_POSITION>32.63192400 44.00261250</LABEL_POSITION>
+        <POSITION>32.637528 43.992011</POSITION>
+        <POSITION>32.637316 44.013587</POSITION>
+        <POSITION>32.626430 44.013587</POSITION>
+        <POSITION>32.626422 43.991265</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFFPATS-------X</MIL_ID>
+        <NAME>10.170</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <LABEL_POSITION>32.61593475 44.00250325</LABEL_POSITION>
+        <POSITION>32.621826 43.991532</POSITION>
+        <POSITION>32.621519 44.013589</POSITION>
+        <POSITION>32.609989 44.013594</POSITION>
+        <POSITION>32.610405 43.991298</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFMPOWCT------X</MIL_ID>
+        <NAME>10.183</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <POSITION>32.579798 44.019409</POSITION>
+        <POSITION>32.579887 44.058861</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFMPOWD-------X</MIL_ID>
+        <NAME>10.177</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <POSITION>32.604865 44.057481</POSITION>
+        <POSITION>32.604640 44.093810</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFFPLCN-------X</MIL_ID>
+        <NAME>10.172</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <POSITION>32.612552 44.026457</POSITION>
+        <POSITION>32.612551 44.057104</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFMPOWH-------X</MIL_ID>
+        <NAME>10.179</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <POSITION>32.595152 44.055713</POSITION>
+        <POSITION>32.595459 44.092418</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFMPOWA-------X</MIL_ID>
+        <NAME>10.176</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <POSITION>32.604652 44.014490</POSITION>
+        <POSITION>32.604332 44.051467</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFMPOT--------X</MIL_ID>
+        <NAME>10.184</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <POSITION>32.590870 44.089039</POSITION>
+        <POSITION>32.576565 44.088902</POSITION>
+        <POSITION>32.583749 44.084353</POSITION>
+    </milbobject>
+    <CREATE_TIME>1409165628</CREATE_TIME>
+    <MODIFIED_TIME>1409165628</MODIFIED_TIME>
+    <NAME>6.2 115 10.167-10.187</NAME>
+</MODEL>

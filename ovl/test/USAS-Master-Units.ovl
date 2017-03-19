@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MODEL>
+    <tacsymbol>
+        <MIL_ID>SFGPUCDM-------</MIL_ID>
+        <NAME>Air Defense</NAME>
+        <POSITION>31.743894 -98.629196</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>SFGPUCA--------</MIL_ID>
+        <NAME>Armor</NAME>
+        <POSITION>31.606344 -98.366173</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>SFGPUCV--------</MIL_ID>
+        <NAME>Aviation</NAME>
+        <POSITION>31.445700 -98.192951</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>SFGPUUA--------</MIL_ID>
+        <NAME>Combat Support NBC</NAME>
+        <POSITION>31.915090 -98.302690</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>SFGPUCE--------</MIL_ID>
+        <NAME>Engineer</NAME>
+        <POSITION>32.120445 -98.077575</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>SFGPUUE--------</MIL_ID>
+        <NAME>Explosive Ordinance Disposal</NAME>
+        <POSITION>31.242656 -98.020244</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>SFGPUCF--------</MIL_ID>
+        <NAME>Field Artillery</NAME>
+        <POSITION>31.048353 -98.172280</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>SFGPUCI--------</MIL_ID>
+        <NAME>Infantry</NAME>
+        <POSITION>31.049291 -98.664554</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>SFGPUUI--------</MIL_ID>
+        <NAME>Information Warfare</NAME>
+        <POSITION>31.243718 -98.926824</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>SFGPUCS--------</MIL_ID>
+        <NAME>Internal Security Forces</NAME>
+        <POSITION>31.437965 -99.043102</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>SFGPUUL--------</MIL_ID>
+        <NAME>Law Enforcement</NAME>
+        <POSITION>31.654163 -99.320898</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>SFGPUUP--------</MIL_ID>
+        <NAME>Landing Support</NAME>
+        <POSITION>31.899419 -99.098832</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>SFGPUUM--------</MIL_ID>
+        <NAME>Military Intelligence</NAME>
+        <POSITION>32.106094 -98.848758</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>SFAPWMSS-------</MIL_ID>
+        <NAME>Missile (Surface To Surface)</NAME>
+        <POSITION>32.338946 -98.413504</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>SFAPWMSS-------</MIL_ID>
+        <NAME>Missile (Surface To Surface)</NAME>
+        <POSITION>32.135146 -97.367036</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>SFGPUCR--------</MIL_ID>
+        <NAME>Reconnaissance 10.113</NAME>
+        <POSITION>31.898602 -97.406293</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>SFGPUUS--------</MIL_ID>
+        <NAME>Signal</NAME>
+        <POSITION>31.675755 -97.691483</POSITION>
+    </tacsymbol>
+    <CREATE_TIME>1410886934</CREATE_TIME>
+    <MODIFIED_TIME>1410886934</MODIFIED_TIME>
+    <NAME>USAS Master Units</NAME>
+</MODEL>

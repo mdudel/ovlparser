@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MODEL>
+    <milbobject>
+        <MIL_ID>GFTPB---------X</MIL_ID>
+        <NAME>Block</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <LINE_COLOR>0 0 0</LINE_COLOR>
+        <POSITION>31.354342 -99.887387</POSITION>
+        <POSITION>32.238148 -99.548729</POSITION>
+        <POSITION>31.614522 -99.065803</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFMPBDE-------X</MIL_ID>
+        <NAME>Bypass Easy</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <LINE_COLOR>0 0 0</LINE_COLOR>
+        <POSITION>31.231484 -96.407732</POSITION>
+        <POSITION>31.280405 -96.694689</POSITION>
+        <POSITION>31.580269 -96.451637</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFTPR---------X</MIL_ID>
+        <NAME>Relief in Place 10.249</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <LINE_COLOR>0 0 0</LINE_COLOR>
+        <POSITION>31.287068 -98.299369</POSITION>
+        <POSITION>31.744464 -98.591395</POSITION>
+        <POSITION>31.603306 -98.279597</POSITION>
+        <POSITION>31.900243 -98.150405</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFTPQ---------X</MIL_ID>
+        <NAME>Retain 10.250</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <LINE_COLOR>0 0 0</LINE_COLOR>
+        <POSITION>29.934439 -96.206849</POSITION>
+        <POSITION>30.080199 -96.725481</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFTPUS--------X</MIL_ID>
+        <NAME>Screen</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <LINE_COLOR>0 0 0</LINE_COLOR>
+        <POSITION>29.510969 -99.042219</POSITION>
+        <POSITION>29.733633 -98.595892</POSITION>
+        <POSITION>29.217243 -98.626690</POSITION>
+    </milbobject>
+    <CREATE_TIME>1410889969</CREATE_TIME>
+    <MODIFIED_TIME>1410889969</MODIFIED_TIME>
+    <NAME>USAS Master Tasks</NAME>
+</MODEL>

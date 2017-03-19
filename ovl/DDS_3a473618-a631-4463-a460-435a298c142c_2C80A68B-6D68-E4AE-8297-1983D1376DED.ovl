@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<MODEL xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <tacsymbol>
+      <MIL_ID>OHOPI----------</MIL_ID>
+      <NAME>Black Marketing</NAME>
+      <ENTITY_ID>2C80A68B-6D68-E4AE-8297-1983D1376DED</ENTITY_ID>
+      <REMARKS/>
+      <SIZE>26</SIZE>
+      <MODIFIED_TIME>1396292441</MODIFIED_TIME>
+      <POSITION>15.005414 -88.257332</POSITION>
+   </tacsymbol>
+   <CREATE_TIME>1396292441</CREATE_TIME>
+   <NAME>SIGACT OVERLAY</NAME>
+   <SOURCE>CMDWEB</SOURCE>
+   <READ_ONLY>true</READ_ONLY>
+   <REMARKS>classification=U, ownerProducer=BCWeb</REMARKS>
+</MODEL>

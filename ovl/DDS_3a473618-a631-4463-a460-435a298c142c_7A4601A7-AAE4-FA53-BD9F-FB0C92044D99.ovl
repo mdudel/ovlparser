@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<MODEL xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <tacsymbol>
+      <MIL_ID>SFGPUCI--------</MIL_ID>
+      <NAME>Infantry</NAME>
+      <ENTITY_ID>7A4601A7-AAE4-FA53-BD9F-FB0C92044D99</ENTITY_ID>
+      <REMARKS/>
+      <SIZE>26</SIZE>
+      <MODIFIED_TIME>1395848542</MODIFIED_TIME>
+      <T>Infantry</T>
+      <T_VIS>true</T_VIS>
+      <POSITION>62.8197 -104.918201</POSITION>
+   </tacsymbol>
+   <CREATE_TIME>1395848542</CREATE_TIME>
+   <NAME>SIGACT OVERLAY</NAME>
+   <SOURCE>CMDWEB</SOURCE>
+   <READ_ONLY>true</READ_ONLY>
+   <REMARKS>classification=U, ownerProducer=BCWeb</REMARKS>
+</MODEL>

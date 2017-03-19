@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<MODEL xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <tacsymbol>
+      <MIL_ID>SFGPUUA--------</MIL_ID>
+      <NAME>Combat Support NBC</NAME>
+      <ENTITY_ID>6888452A-3EFD-00C5-C02A-FB0C773CAD83</ENTITY_ID>
+      <REMARKS/>
+      <SIZE>26</SIZE>
+      <MODIFIED_TIME>1395848553</MODIFIED_TIME>
+      <T>Combat Support NBC</T>
+      <T_VIS>true</T_VIS>
+      <POSITION>36.639053 -113.448269</POSITION>
+   </tacsymbol>
+   <CREATE_TIME>1395848553</CREATE_TIME>
+   <NAME>SIGACT OVERLAY</NAME>
+   <SOURCE>CMDWEB</SOURCE>
+   <READ_ONLY>true</READ_ONLY>
+   <REMARKS>classification=U, ownerProducer=BCWeb</REMARKS>
+</MODEL>

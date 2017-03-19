@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<MODEL xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <tacsymbol>
+      <MIL_ID>OHOPKA---------</MIL_ID>
+      <NAME>Attempted Kidnapping</NAME>
+      <ENTITY_ID>69A60DE5-2AC0-BABB-ECC9-FEB1EFDABCA8</ENTITY_ID>
+      <REMARKS/>
+      <SIZE>26</SIZE>
+      <MODIFIED_TIME>1395848547</MODIFIED_TIME>
+      <POSITION>54.233918 -110.666108</POSITION>
+   </tacsymbol>
+   <CREATE_TIME>1395848547</CREATE_TIME>
+   <NAME>SIGACT OVERLAY</NAME>
+   <SOURCE>CMDWEB</SOURCE>
+   <READ_ONLY>true</READ_ONLY>
+   <REMARKS>classification=U, ownerProducer=BCWeb</REMARKS>
+</MODEL>

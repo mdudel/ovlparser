@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<MODEL xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <tacsymbol>
+      <MIL_ID>SFGPUCA--------</MIL_ID>
+      <NAME>Armor</NAME>
+      <ENTITY_ID>F2F65588-3487-24A4-1F3E-FB0C6BBE4579</ENTITY_ID>
+      <REMARKS/>
+      <SIZE>26</SIZE>
+      <MODIFIED_TIME>1395848488</MODIFIED_TIME>
+      <T>Armor</T>
+      <T_VIS>true</T_VIS>
+      <POSITION>50.193839 -87.644436</POSITION>
+   </tacsymbol>
+   <CREATE_TIME>1395848488</CREATE_TIME>
+   <NAME>SIGACT OVERLAY</NAME>
+   <SOURCE>CMDWEB</SOURCE>
+   <READ_ONLY>true</READ_ONLY>
+   <REMARKS>classification=U, ownerProducer=BCWeb</REMARKS>
+</MODEL>

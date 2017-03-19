@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<MODEL xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <tacsymbol>
+      <MIL_ID>EHFPID----H----</MIL_ID>
+      <NAME>Religious Institution</NAME>
+      <ENTITY_ID>E3FE8C61-B9CB-E07C-E233-FB0C3ECD05C4</ENTITY_ID>
+      <REMARKS/>
+      <SIZE>26</SIZE>
+      <MODIFIED_TIME>1395848525</MODIFIED_TIME>
+      <T>Religious Institution</T>
+      <T_VIS>true</T_VIS>
+      <POSITION>67.10117 -91.223434</POSITION>
+   </tacsymbol>
+   <CREATE_TIME>1395848525</CREATE_TIME>
+   <NAME>SIGACT OVERLAY</NAME>
+   <SOURCE>CMDWEB</SOURCE>
+   <READ_ONLY>true</READ_ONLY>
+   <REMARKS>classification=U, ownerProducer=BCWeb</REMARKS>
+</MODEL>

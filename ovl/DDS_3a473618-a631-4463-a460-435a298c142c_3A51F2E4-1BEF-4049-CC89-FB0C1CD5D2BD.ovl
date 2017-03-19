@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<MODEL xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <tacsymbol>
+      <MIL_ID>OHOPU----------</MIL_ID>
+      <NAME>Drug Operation</NAME>
+      <ENTITY_ID>3A51F2E4-1BEF-4049-CC89-FB0C1CD5D2BD</ENTITY_ID>
+      <REMARKS/>
+      <SIZE>26</SIZE>
+      <MODIFIED_TIME>1395848513</MODIFIED_TIME>
+      <POSITION>53.791853 -90.845941</POSITION>
+   </tacsymbol>
+   <CREATE_TIME>1395848513</CREATE_TIME>
+   <NAME>SIGACT OVERLAY</NAME>
+   <SOURCE>CMDWEB</SOURCE>
+   <READ_ONLY>true</READ_ONLY>
+   <REMARKS>classification=U, ownerProducer=BCWeb</REMARKS>
+</MODEL>

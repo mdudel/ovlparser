@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MODEL>
+    <milbobject>
+        <MIL_ID>GFGPGAA-----USX</MIL_ID>
+        <NAME>ASSEMBLY AREA</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <N></N>
+        <N_VIS>false</N_VIS>
+        <T>TT</T>
+        <T_VIS>true</T_VIS>
+        <LABEL_POSITION>42.53062280 -116.98232080</LABEL_POSITION>
+        <POSITION>43.835988 -118.910770</POSITION>
+        <POSITION>45.106203 -116.685636</POSITION>
+        <POSITION>42.973827 -112.532054</POSITION>
+        <POSITION>39.859970 -116.537294</POSITION>
+        <POSITION>40.877126 -120.245850</POSITION>
+    </milbobject>
+    <tacsymbol>
+        <MIL_ID>SUGPEXI--------</MIL_ID>
+        <NAME>IED</NAME>
+        <POSITION>42.530623 -116.982321</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>OUVPEI---------</MIL_ID>
+        <NAME>IED EXPLOSION</NAME>
+        <POSITION>43.454444 -122.090833</POSITION>
+    </tacsymbol>
+    <milbobject>
+        <MIL_ID>GHGAGLP-----IRX</MIL_ID>
+        <NAME>PHASELINE</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <FILL_COLOR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string">[FILL_COLOR: null]</FILL_COLOR>
+        <POSITION>45.740649 -121.381595</POSITION>
+        <POSITION>45.602980 -117.066922</POSITION>
+        <POSITION>44.979278 -115.589295</POSITION>
+        <POSITION>44.531584 -114.820928</POSITION>
+    </milbobject>
+    <tacsymbol>
+        <MIL_ID>SUGPUCI--------</MIL_ID>
+        <NAME>UNKNOWN</NAME>
+        <POSITION>44.741944 -122.287778</POSITION>
+    </tacsymbol>
+    <CREATE_TIME>1409165629</CREATE_TIME>
+    <MODIFIED_TIME>1409165629</MODIFIED_TIME>
+    <NAME>Joint Overlay</NAME>
+</MODEL>

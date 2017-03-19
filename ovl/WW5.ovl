@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MODEL>
+    <milbobject>
+        <MIL_ID>GFGPGLB-------X</MIL_ID>
+        <NAME>Boundary</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <LINE_COLOR>0 0 0</LINE_COLOR>
+        <N></N>
+        <N_VIS>false</N_VIS>
+        <POSITION>41.542943 -88.076585</POSITION>
+        <POSITION>38.916251 -81.493281</POSITION>
+        <POSITION>35.733482 -79.189593</POSITION>
+        <POSITION>31.806616 -82.629574</POSITION>
+    </milbobject>
+    <CREATE_TIME>1412767259</CREATE_TIME>
+    <MODIFIED_TIME>1412767259</MODIFIED_TIME>
+    <NAME>WW5</NAME>
+</MODEL>

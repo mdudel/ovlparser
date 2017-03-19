@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<MODEL xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <tacsymbol>
+      <MIL_ID>OHLPB----------</MIL_ID>
+      <NAME>Black List Location</NAME>
+      <ENTITY_ID>B9B8832F-B1D2-753B-9CF8-FB0C017E8122</ENTITY_ID>
+      <REMARKS/>
+      <SIZE>26</SIZE>
+      <MODIFIED_TIME>1395848539</MODIFIED_TIME>
+      <POSITION>39.45328 -101.857915</POSITION>
+   </tacsymbol>
+   <CREATE_TIME>1395848539</CREATE_TIME>
+   <NAME>SIGACT OVERLAY</NAME>
+   <SOURCE>CMDWEB</SOURCE>
+   <READ_ONLY>true</READ_ONLY>
+   <REMARKS>classification=U, ownerProducer=BCWeb</REMARKS>
+</MODEL>

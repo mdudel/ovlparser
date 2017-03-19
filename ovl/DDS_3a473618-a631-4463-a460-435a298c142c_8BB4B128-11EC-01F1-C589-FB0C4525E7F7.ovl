@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<MODEL xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <tacsymbol>
+      <MIL_ID>OHGPD----------</MIL_ID>
+      <NAME>Religious Organization</NAME>
+      <ENTITY_ID>8BB4B128-11EC-01F1-C589-FB0C4525E7F7</ENTITY_ID>
+      <REMARKS/>
+      <SIZE>26</SIZE>
+      <MODIFIED_TIME>1395848534</MODIFIED_TIME>
+      <POSITION>28.088873 -108.619431</POSITION>
+   </tacsymbol>
+   <CREATE_TIME>1395848534</CREATE_TIME>
+   <NAME>SIGACT OVERLAY</NAME>
+   <SOURCE>CMDWEB</SOURCE>
+   <READ_ONLY>true</READ_ONLY>
+   <REMARKS>classification=U, ownerProducer=BCWeb</REMARKS>
+</MODEL>

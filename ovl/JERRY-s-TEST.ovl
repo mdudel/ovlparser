@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MODEL>
+    <milbobject>
+        <MIL_ID>GFGPOAK-------X</MIL_ID>
+        <NAME>Attack Position</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <LINE_COLOR>0 0 0</LINE_COLOR>
+        <LABEL_POSITION>7.10671800 -74.59495167</LABEL_POSITION>
+        <POSITION>7.698208 -75.486929</POSITION>
+        <POSITION>5.917670 -74.841230</POSITION>
+        <POSITION>7.704276 -73.456696</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GHSPASB-------X</MIL_ID>
+        <NAME>Brigade Support Area</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <LINE_COLOR>255 0 0</LINE_COLOR>
+        <LABEL_POSITION>2.94876525 -75.16856625</LABEL_POSITION>
+        <POSITION>2.996073 -76.640631</POSITION>
+        <POSITION>3.717636 -75.040314</POSITION>
+        <POSITION>2.920294 -73.659462</POSITION>
+        <POSITION>2.161058 -75.333858</POSITION>
+    </milbobject>
+    <tacsymbol>
+        <MIL_ID>OHVPY----------</MIL_ID>
+        <NAME>Booby Trap</NAME>
+        <POSITION>8.141372 -77.801620</POSITION>
+    </tacsymbol>
+    <CREATE_TIME>1409335742</CREATE_TIME>
+    <MODIFIED_TIME>1409335742</MODIFIED_TIME>
+    <NAME>JERRY s TEST</NAME>
+</MODEL>

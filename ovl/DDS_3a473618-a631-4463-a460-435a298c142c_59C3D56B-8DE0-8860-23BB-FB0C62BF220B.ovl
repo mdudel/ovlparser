@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<MODEL xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <tacsymbol>
+      <MIL_ID>SFGPUCDM-------</MIL_ID>
+      <NAME>Air Defense</NAME>
+      <ENTITY_ID>59C3D56B-8DE0-8860-23BB-FB0C62BF220B</ENTITY_ID>
+      <REMARKS/>
+      <SIZE>26</SIZE>
+      <MODIFIED_TIME>1395848557</MODIFIED_TIME>
+      <T>Air Defense</T>
+      <T_VIS>true</T_VIS>
+      <POSITION>65.908046 -120.448485</POSITION>
+   </tacsymbol>
+   <CREATE_TIME>1395848557</CREATE_TIME>
+   <NAME>SIGACT OVERLAY</NAME>
+   <SOURCE>CMDWEB</SOURCE>
+   <READ_ONLY>true</READ_ONLY>
+   <REMARKS>classification=U, ownerProducer=BCWeb</REMARKS>
+</MODEL>

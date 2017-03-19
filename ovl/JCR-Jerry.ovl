@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MODEL>
+    <milbobject>
+        <MIL_ID>GFFPLL--------X</MIL_ID>
+        <NAME>Linear Target</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <LINE_COLOR>0 0 0</LINE_COLOR>
+        <POSITION>40.842249 -102.847874</POSITION>
+        <POSITION>41.751471 -92.221478</POSITION>
+    </milbobject>
+    <tacsymbol>
+        <MIL_ID>SFGPUCV--------</MIL_ID>
+        <NAME>Aviation</NAME>
+        <POSITION>41.344510 -89.874620</POSITION>
+    </tacsymbol>
+    <CREATE_TIME>1409165628</CREATE_TIME>
+    <MODIFIED_TIME>1409165628</MODIFIED_TIME>
+    <NAME>JCR-Jerry</NAME>
+</MODEL>

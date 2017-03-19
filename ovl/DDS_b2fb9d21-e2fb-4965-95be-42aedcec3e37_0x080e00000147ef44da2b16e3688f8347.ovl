@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<MODEL xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <tacsymbol>
+      <MIL_ID>OHVPE----------</MIL_ID>
+      <NAME>Boobly Killed</NAME>
+      <ENTITY_ID>3886315005</ENTITY_ID>
+      <REMARKS>MGRS41RQQ 30639 62219</REMARKS>
+      <SIZE>26</SIZE>
+      <MODIFIED_TIME>1408469381</MODIFIED_TIME>
+      <POSITION>31.271455576032427 65.42248550319398</POSITION>
+   </tacsymbol>
+   <CREATE_TIME>1408469364</CREATE_TIME>
+   <NAME>SIGACT OVERLAY</NAME>
+   <SOURCE>CPOF_10MTN-CPO</SOURCE>
+   <READ_ONLY>true</READ_ONLY>
+   <REMARKS>classification=S, ownerProducer=USA</REMARKS>
+</MODEL>

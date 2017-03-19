@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<MODEL xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <tacsymbol>
+      <MIL_ID>OHLPW----------</MIL_ID>
+      <NAME>White List Location</NAME>
+      <ENTITY_ID>EC30DFBD-7B12-87E0-821E-197EB6A721BC</ENTITY_ID>
+      <REMARKS/>
+      <SIZE>26</SIZE>
+      <MODIFIED_TIME>1396292107</MODIFIED_TIME>
+      <POSITION>-18.462723 -105.456236</POSITION>
+   </tacsymbol>
+   <CREATE_TIME>1396292107</CREATE_TIME>
+   <NAME>SIGACT OVERLAY</NAME>
+   <SOURCE>CMDWEB</SOURCE>
+   <READ_ONLY>true</READ_ONLY>
+   <REMARKS>classification=U, ownerProducer=BCWeb</REMARKS>
+</MODEL>

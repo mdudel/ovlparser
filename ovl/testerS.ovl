@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MODEL>
+    <tacsymbol>
+        <MIL_ID>SFGPUCDM-------</MIL_ID>
+        <NAME>Air Defense</NAME>
+        <POSITION>39.239496 -98.331470</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>SFGPUUL--------</MIL_ID>
+        <NAME>Law Enforcement</NAME>
+        <POSITION>42.655342 -95.121197</POSITION>
+    </tacsymbol>
+    <CREATE_TIME>1409335742</CREATE_TIME>
+    <MODIFIED_TIME>1409335742</MODIFIED_TIME>
+    <NAME>testerS</NAME>
+</MODEL>

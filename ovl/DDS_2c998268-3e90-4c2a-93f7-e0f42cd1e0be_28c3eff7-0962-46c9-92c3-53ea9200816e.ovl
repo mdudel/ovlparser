@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<MODEL xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <tacsymbol>
+      <MIL_ID>SHSPXM---------</MIL_ID>
+      <NAME>MIL TRNSPT,NFI</NAME>
+      <ENTITY_ID>28c3eff7-0962-46c9-92c3-53ea9200816e</ENTITY_ID>
+      <SIZE>26</SIZE>
+      <MODIFIED_TIME>1373489280</MODIFIED_TIME>
+      <POSITION>37.820685 -79.309621</POSITION>
+   </tacsymbol>
+   <CREATE_TIME>1408472562</CREATE_TIME>
+   <NAME>- TRAINING</NAME>
+   <SOURCE>00000000</SOURCE>
+   <READ_ONLY>true</READ_ONLY>
+   <REMARKS>classification=U, ownerProducer=USA</REMARKS>
+</MODEL>

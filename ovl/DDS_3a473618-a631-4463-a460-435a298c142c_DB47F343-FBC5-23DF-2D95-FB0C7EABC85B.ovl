@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<MODEL xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <tacsymbol>
+      <MIL_ID>SFGPUCE--------</MIL_ID>
+      <NAME>Engineer</NAME>
+      <ENTITY_ID>DB47F343-FBC5-23DF-2D95-FB0C7EABC85B</ENTITY_ID>
+      <REMARKS/>
+      <SIZE>26</SIZE>
+      <MODIFIED_TIME>1395848491</MODIFIED_TIME>
+      <T>Engineer</T>
+      <T_VIS>true</T_VIS>
+      <POSITION>50.178236 -72.508499</POSITION>
+   </tacsymbol>
+   <CREATE_TIME>1395848491</CREATE_TIME>
+   <NAME>SIGACT OVERLAY</NAME>
+   <SOURCE>CMDWEB</SOURCE>
+   <READ_ONLY>true</READ_ONLY>
+   <REMARKS>classification=U, ownerProducer=BCWeb</REMARKS>
+</MODEL>

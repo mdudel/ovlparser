@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MODEL>
+    <tacsymbol>
+        <MIL_ID>SFGPUCV--------</MIL_ID>
+        <NAME>Aviation</NAME>
+        <POSITION>35.143018 -79.716054</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>SFGPUCI--------</MIL_ID>
+        <NAME>Infantry</NAME>
+        <POSITION>35.675654 -78.706443</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>SFGPUCF--------</MIL_ID>
+        <NAME>Field Artillery</NAME>
+        <POSITION>35.920310 -80.529467</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>SFGPUCI--------</MIL_ID>
+        <NAME>Infantry</NAME>
+        <POSITION>34.314612 -80.361992</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>SFGPUUI--------</MIL_ID>
+        <NAME>Information Warfare</NAME>
+        <POSITION>35.090192 -81.174736</POSITION>
+    </tacsymbol>
+    <CREATE_TIME>1410880222</CREATE_TIME>
+    <MODIFIED_TIME>1410880222</MODIFIED_TIME>
+    <NAME>Paul Test Overlay</NAME>
+</MODEL>

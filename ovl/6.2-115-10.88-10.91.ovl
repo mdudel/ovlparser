@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MODEL>
+    <milbobject>
+        <MIL_ID>GFGPAPC-------X</MIL_ID>
+        <NAME>10.91</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <SIZE>26.0</SIZE>
+        <T>T MOD</T>
+        <T_VIS>true</T_VIS>
+        <POSITION>32.634852 44.069183</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFGPGPPW------X</MIL_ID>
+        <NAME>10.89</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <SIZE>26.0</SIZE>
+        <T>T MOD</T>
+        <T_VIS>true</T_VIS>
+        <POSITION>32.634862 44.024658</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFGPAPP-------X</MIL_ID>
+        <NAME>10.90</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <SIZE>26.0</SIZE>
+        <T>T MOD</T>
+        <T_VIS>true</T_VIS>
+        <POSITION>32.634647 44.049004</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFGPGPPS------X</MIL_ID>
+        <NAME>10.88</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <SIZE>26.0</SIZE>
+        <H>H MOD</H>
+        <H_VIS>true</H_VIS>
+        <T>T MOD</T>
+        <T_VIS>true</T_VIS>
+        <W>17191459ZSEP12</W>
+        <W_VIS>true</W_VIS>
+        <W1>31201459ZDEC12</W1>
+        <W1_VIS>true</W1_VIS>
+        <POSITION>32.631870 44.004474</POSITION>
+    </milbobject>
+    <CREATE_TIME>1409165628</CREATE_TIME>
+    <MODIFIED_TIME>1409165628</MODIFIED_TIME>
+    <NAME>6.2 115 10.88-10.91</NAME>
+</MODEL>

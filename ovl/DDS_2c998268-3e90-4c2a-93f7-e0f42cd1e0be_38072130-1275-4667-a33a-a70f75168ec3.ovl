@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<MODEL xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <tacsymbol>
+      <MIL_ID>SHGPU------E--G</MIL_ID>
+      <NAME>UI TERROR TSKUNIT</NAME>
+      <ENTITY_ID>38072130-1275-4667-a33a-a70f75168ec3</ENTITY_ID>
+      <SIZE>26</SIZE>
+      <MODIFIED_TIME>1373489280</MODIFIED_TIME>
+      <T>UI TERROR TSKUNIT</T>
+      <T_VIS>true</T_VIS>
+      <POSITION>38.858897 -79.192968</POSITION>
+   </tacsymbol>
+   <CREATE_TIME>1408472562</CREATE_TIME>
+   <NAME>- TRAINING</NAME>
+   <SOURCE>00000000</SOURCE>
+   <READ_ONLY>true</READ_ONLY>
+   <REMARKS>classification=U, ownerProducer=USA</REMARKS>
+</MODEL>

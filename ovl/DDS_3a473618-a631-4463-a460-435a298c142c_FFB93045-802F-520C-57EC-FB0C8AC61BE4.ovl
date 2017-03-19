@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<MODEL xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <tacsymbol>
+      <MIL_ID>SFGPUCF--------</MIL_ID>
+      <NAME>Field Artillery</NAME>
+      <ENTITY_ID>FFB93045-802F-520C-57EC-FB0C8AC61BE4</ENTITY_ID>
+      <REMARKS/>
+      <SIZE>26</SIZE>
+      <MODIFIED_TIME>1395848448</MODIFIED_TIME>
+      <T>Field Artillery</T>
+      <T_VIS>true</T_VIS>
+      <POSITION>32.589726 -84.646825</POSITION>
+   </tacsymbol>
+   <CREATE_TIME>1395848448</CREATE_TIME>
+   <NAME>SIGACT OVERLAY</NAME>
+   <SOURCE>CMDWEB</SOURCE>
+   <READ_ONLY>true</READ_ONLY>
+   <REMARKS>classification=U, ownerProducer=BCWeb</REMARKS>
+</MODEL>

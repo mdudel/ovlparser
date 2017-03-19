@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<MODEL xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <tacsymbol>
+      <MIL_ID>OHIPG----------</MIL_ID>
+      <NAME>Cowboys Logo Displayed</NAME>
+      <ENTITY_ID>1656833317</ENTITY_ID>
+      <REMARKS>MGRS42RYQ 57259 70975</REMARKS>
+      <SIZE>26</SIZE>
+      <MODIFIED_TIME>1408469480</MODIFIED_TIME>
+      <POSITION>26.836716764807598 71.58868105313574</POSITION>
+   </tacsymbol>
+   <CREATE_TIME>1408469438</CREATE_TIME>
+   <NAME>SIGACT OVERLAY</NAME>
+   <SOURCE>CPOF_10MTN-CPO</SOURCE>
+   <READ_ONLY>true</READ_ONLY>
+   <REMARKS>classification=S, ownerProducer=USA</REMARKS>
+</MODEL>

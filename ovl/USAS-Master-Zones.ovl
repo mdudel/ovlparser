@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MODEL>
+    <milbobject>
+        <MIL_ID>GFGPAAF-------X</MIL_ID>
+        <NAME>FAADEZ</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <LINE_COLOR>0 0 0</LINE_COLOR>
+        <H>1000 ft</H>
+        <H_VIS>true</H_VIS>
+        <H1>6000 ft</H1>
+        <H1_VIS>true</H1_VIS>
+        <T>alpha</T>
+        <T_VIS>true</T_VIS>
+        <W>08213354ZSEP14</W>
+        <W_VIS>true</W_VIS>
+        <LABEL_POSITION>33.46821367 -98.91323967</LABEL_POSITION>
+        <POSITION>33.247632 -98.159658</POSITION>
+        <POSITION>32.581620 -99.807894</POSITION>
+        <POSITION>34.575389 -98.772167</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFGPGAL-------X</MIL_ID>
+        <NAME>Landing Zone</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <LINE_COLOR>0 0 0</LINE_COLOR>
+        <N></N>
+        <N_VIS>false</N_VIS>
+        <LABEL_POSITION>33.82112833 -96.13690933</LABEL_POSITION>
+        <POSITION>32.871728 -96.329872</POSITION>
+        <POSITION>34.337029 -95.292179</POSITION>
+        <POSITION>34.254628 -96.788677</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFGPAAR-------X</MIL_ID>
+        <NAME>Restricted Operations Zone</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <LINE_COLOR>0 0 0</LINE_COLOR>
+        <LABEL_POSITION>30.91552000 -96.07841867</LABEL_POSITION>
+        <POSITION>29.662243 -96.335092</POSITION>
+        <POSITION>31.619065 -95.338092</POSITION>
+        <POSITION>31.465252 -96.562072</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFGPGAP-------X</MIL_ID>
+        <NAME>Pickup Zone</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <LINE_COLOR>0 0 0</LINE_COLOR>
+        <N></N>
+        <N_VIS>false</N_VIS>
+        <LABEL_POSITION>30.83130900 -100.07347933</LABEL_POSITION>
+        <POSITION>31.886598 -100.156387</POSITION>
+        <POSITION>30.132656 -99.221566</POSITION>
+        <POSITION>30.474673 -100.842485</POSITION>
+    </milbobject>
+    <CREATE_TIME>1410890115</CREATE_TIME>
+    <MODIFIED_TIME>1410890115</MODIFIED_TIME>
+    <NAME>USAS Master Zones</NAME>
+</MODEL>

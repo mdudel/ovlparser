@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MODEL>
+    <milbobject>
+        <MIL_ID>GFSPLRM-------X</MIL_ID>
+        <NAME>Main Supply Route (MSR) Copy</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <POSITION>34.326945637439 -94.31898172585262</POSITION>
+        <POSITION>35.268306637439004 -94.64108972585262</POSITION>
+        <POSITION>35.302807637439 -95.86443672585261</POSITION>
+        <POSITION>34.472372637439 -98.61810172585261</POSITION>
+        <POSITION>35.397957637439 -97.24319472585262</POSITION>
+        <POSITION>35.318279637439 -98.44699172585261</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFGPOLAA------X</MIL_ID>
+        <NAME>Axis of Advance - Airborne 10.</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <POSITION>30.08395891559242 -94.66784140628944</POSITION>
+        <POSITION>31.41295191559242 -95.65738040628945</POSITION>
+        <POSITION>31.091625350869933 -94.9855757267327</POSITION>
+    </milbobject>
+    <milbcorridor>
+        <MIL_ID>GFGPALC-------X</MIL_ID>
+        <NAME>Air Corridor Copy</NAME>
+        <DESCRIPTION>Air Corridor Copy</DESCRIPTION>
+    </milbcorridor>
+    <milbobject>
+        <MIL_ID>GFGPALS-------X</MIL_ID>
+        <NAME>Standard-Use Army Aircraft Fli</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <H>.0 MSL</H>
+        <H_VIS>true</H_VIS>
+        <H1>.0 MSL</H1>
+        <H1_VIS>true</H1_VIS>
+        <T>Aircraft Flight Route</T>
+        <T_VIS>true</T_VIS>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFGPOLAGS-----X</MIL_ID>
+        <NAME>Axis of Advance - Ground - Sup</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <POSITION>32.276885623275554 -99.22602694644081</POSITION>
+        <POSITION>33.11405662327555 -99.0176019464408</POSITION>
+        <POSITION>32.78576969345766 -98.23295810335678</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFGPOLAGM-----X</MIL_ID>
+        <NAME>Axis of Advance - Ground - Mai</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <POSITION>32.60271273731361 -94.91961738332644</POSITION>
+        <POSITION>32.627840737313605 -95.32889938332643</POSITION>
+        <POSITION>33.59868043081197 -95.28183495857057</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFGPOLAR------X</MIL_ID>
+        <NAME>Axis of Advance - Attack Rotar</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <POSITION>31.808883839208963 -101.21445607398338</POSITION>
+        <POSITION>33.033855839208954 -100.57527507398338</POSITION>
+        <POSITION>32.60882298829445 -100.51063561666886</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFGPOLAV------X</MIL_ID>
+        <NAME>Axis of Advance - Aviation Cop</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <POSITION>32.36994630785439 -96.99029974937889</POSITION>
+        <POSITION>31.27494730785438 -98.4756267493789</POSITION>
+        <POSITION>31.756467765652232 -98.58992400945245</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFGPALL-------X</MIL_ID>
+        <NAME>Low Level Transit Route (LLTR)</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <H>.0 MSL</H>
+        <H_VIS>true</H_VIS>
+        <H1>.0 MSL</H1>
+        <H1_VIS>true</H1_VIS>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFGPOLKGM-----X</MIL_ID>
+        <NAME>Direction of Attack - Ground -</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <POSITION>33.93182395019108 -95.05460152227906</POSITION>
+        <POSITION>33.74599995019108 -96.91977952227906</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFSPLRA-------X</MIL_ID>
+        <NAME>Alternate Supply Route (ASR) C</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <POSITION>30.000311399712775 -97.18639336320096</POSITION>
+        <POSITION>31.124165399712776 -96.70434736320095</POSITION>
+        <POSITION>29.994803399712776 -96.32490936320096</POSITION>
+    </milbobject>
+    <CREATE_TIME>1410540930</CREATE_TIME>
+    <MODIFIED_TIME>1410540930</MODIFIED_TIME>
+    <NAME>Routes22</NAME>
+</MODEL>

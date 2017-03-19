@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MODEL>
+    <tacsymbol>
+        <MIL_ID>SFGPUUS--------</MIL_ID>
+        <NAME>Signal</NAME>
+        <POSITION>37.604502 -111.233984</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>SFGPUUI--------</MIL_ID>
+        <NAME>Information Warfare</NAME>
+        <POSITION>35.224013 -78.825695</POSITION>
+    </tacsymbol>
+    <CREATE_TIME>1410270900</CREATE_TIME>
+    <MODIFIED_TIME>1410270900</MODIFIED_TIME>
+    <NAME>AndyOverlay</NAME>
+</MODEL>

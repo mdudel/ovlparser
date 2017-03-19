@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MODEL>
+    <tacsymbol>
+        <MIL_ID>SFGP-----------</MIL_ID>
+        <NAME>Ground Track</NAME>
+        <POSITION>37.533515 -89.045703</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>SFGPUCV--------</MIL_ID>
+        <NAME>Aviation</NAME>
+        <POSITION>36.965790 -91.881045</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>SFGP-----------</MIL_ID>
+        <NAME>Ground Track</NAME>
+        <POSITION>33.068133 -96.037786</POSITION>
+    </tacsymbol>
+    <milbobject>
+        <MIL_ID>GFGPGPPK------X</MIL_ID>
+        <NAME>Check Point</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <LINE_COLOR>0 0 0</LINE_COLOR>
+        <SIZE>26.0</SIZE>
+        <POSITION>24.559327 -97.825062</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFGPGAL-------X</MIL_ID>
+        <NAME>Landing Zone</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <LINE_COLOR>0 0 0</LINE_COLOR>
+        <N></N>
+        <N_VIS>false</N_VIS>
+        <LABEL_POSITION>38.33014000 -105.73873267</LABEL_POSITION>
+        <POSITION>34.872049 -106.896696</POSITION>
+        <POSITION>40.161896 -99.256095</POSITION>
+        <POSITION>39.956475 -111.063407</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFGPGAP-------X</MIL_ID>
+        <NAME>Pickup Zone</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <LINE_COLOR>0 0 0</LINE_COLOR>
+        <N></N>
+        <N_VIS>false</N_VIS>
+        <LABEL_POSITION>46.56023300 -109.19873100</LABEL_POSITION>
+        <POSITION>46.560233 -109.198731</POSITION>
+    </milbobject>
+    <CREATE_TIME>1410889916</CREATE_TIME>
+    <MODIFIED_TIME>1410889916</MODIFIED_TIME>
+    <NAME>USAS Master Overlay</NAME>
+</MODEL>

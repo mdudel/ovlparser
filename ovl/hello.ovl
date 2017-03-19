@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MODEL>
+    <tacsymbol>
+        <MIL_ID>SFGPUCA---AK---</MIL_ID>
+        <NAME>Armor</NAME>
+        <POSITION>29.493244 -0.444517</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>SFGPUCF--------</MIL_ID>
+        <NAME>Field Artillery</NAME>
+        <POSITION>25.035838 2.741437</POSITION>
+    </tacsymbol>
+    <tacsymbol>
+        <MIL_ID>SHGPUCI--------</MIL_ID>
+        <NAME>Infantry</NAME>
+        <POSITION>27.368139 0.976113</POSITION>
+    </tacsymbol>
+    <CREATE_TIME>1409335743</CREATE_TIME>
+    <MODIFIED_TIME>1409335743</MODIFIED_TIME>
+    <NAME>hello</NAME>
+</MODEL>

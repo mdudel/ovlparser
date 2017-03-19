@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MODEL>
+    <milbobject>
+        <MIL_ID>GFFPLL--------X</MIL_ID>
+        <NAME>Linear Target 10.171</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <LINE_COLOR>0 0 0</LINE_COLOR>
+        <T>Linear Target</T>
+        <T_VIS>true</T_VIS>
+        <POSITION>30.515666 -99.152641</POSITION>
+        <POSITION>30.816820 -98.232114</POSITION>
+    </milbobject>
+    <CREATE_TIME>1410890449</CREATE_TIME>
+    <MODIFIED_TIME>1410890449</MODIFIED_TIME>
+    <NAME>USAS Master Targets</NAME>
+</MODEL>

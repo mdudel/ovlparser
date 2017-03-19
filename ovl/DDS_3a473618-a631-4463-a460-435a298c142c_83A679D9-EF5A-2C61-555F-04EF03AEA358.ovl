@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<MODEL xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <tacsymbol>
+      <MIL_ID>SFGPUUM--------</MIL_ID>
+      <NAME>Military Intelligence</NAME>
+      <ENTITY_ID>83A679D9-EF5A-2C61-555F-04EF03AEA358</ENTITY_ID>
+      <REMARKS/>
+      <SIZE>26</SIZE>
+      <MODIFIED_TIME>1395947145</MODIFIED_TIME>
+      <T>Military Intelligence</T>
+      <T_VIS>true</T_VIS>
+      <POSITION>10.666952 -77.411176</POSITION>
+   </tacsymbol>
+   <CREATE_TIME>1395947145</CREATE_TIME>
+   <NAME>SIGACT OVERLAY</NAME>
+   <SOURCE>CMDWEB</SOURCE>
+   <READ_ONLY>true</READ_ONLY>
+   <REMARKS>classification=U, ownerProducer=BCWeb</REMARKS>
+</MODEL>

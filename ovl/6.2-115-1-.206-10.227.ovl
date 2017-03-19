@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MODEL>
+    <milbobject>
+        <MIL_ID>GFMPSE--------X</MIL_ID>
+        <NAME>10.217</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <POSITION>32.603693 44.046886</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFMPBDI-------X</MIL_ID>
+        <NAME>10.225</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <POSITION>32.586938 44.040736</POSITION>
+        <POSITION>32.576697 44.040734</POSITION>
+        <POSITION>32.582033 44.027124</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFMPNDE-------X</MIL_ID>
+        <NAME>10.210</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <POSITION>32.620765 44.083223</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFMPSF--------X</MIL_ID>
+        <NAME>10.218</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <POSITION>32.603048 44.067579</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFMPOGR-------X</MIL_ID>
+        <NAME>10.227</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <LABEL_POSITION>32.57113275 44.06550900</LABEL_POSITION>
+        <POSITION>32.577010 44.050284</POSITION>
+        <POSITION>32.577316 44.080927</POSITION>
+        <POSITION>32.564930 44.080923</POSITION>
+        <POSITION>32.565275 44.049902</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFMPNDD-------X</MIL_ID>
+        <NAME>10.212</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <POSITION>32.610951 44.029358</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFMPOED-------X</MIL_ID>
+        <NAME>10.223</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <POSITION>32.587152 43.991099</POSITION>
+        <POSITION>32.576495 43.991238</POSITION>
+        <POSITION>32.581079 44.005858</POSITION>
+        <POSITION>32.586980 43.972562</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFMPSU--------X</MIL_ID>
+        <NAME>10.222</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <POSITION>32.593329 44.081062</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFMPNF--------X</MIL_ID>
+        <NAME>10.206</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <POSITION>32.631229 43.995548</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFMPNDA-------X</MIL_ID>
+        <NAME>10.209</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <POSITION>32.629944 44.083349</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFMPBCA-------X</MIL_ID>
+        <NAME>10.214</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <POSITION>32.617245 44.072023</POSITION>
+        <POSITION>32.606139 44.083246</POSITION>
+        <POSITION>32.620127 44.077577</POSITION>
+        <POSITION>32.609233 44.088671</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFMPNR--------X</MIL_ID>
+        <NAME>10.208</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <POSITION>32.638810 44.035159</POSITION>
+        <POSITION>32.638379 44.059253</POSITION>
+        <POSITION>32.623868 44.059507</POSITION>
+        <POSITION>32.623865 44.034402</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFMPOGL-------X</MIL_ID>
+        <NAME>10.226</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <POSITION>32.582451 44.051548</POSITION>
+        <POSITION>32.582332 44.084082</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFMPNDT-------X</MIL_ID>
+        <NAME>10.213</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <POSITION>32.610844 44.055213</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFMPBDD-------X</MIL_ID>
+        <NAME>10.224</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <POSITION>32.588650 44.015281</POSITION>
+        <POSITION>32.577345 44.016292</POSITION>
+        <POSITION>32.583212 44.003572</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFMPSS--------X</MIL_ID>
+        <NAME>10.221</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <POSITION>32.593231 44.054451</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFMPSW--------X</MIL_ID>
+        <NAME>10.220</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <POSITION>32.595156 44.014898</POSITION>
+        <POSITION>32.595367 44.040107</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFMPSL--------X</MIL_ID>
+        <NAME>10.219</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <POSITION>32.593975 43.973327</POSITION>
+        <POSITION>32.594195 44.006176</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFMPBCR-------X</MIL_ID>
+        <NAME>10.215</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <POSITION>32.604857 43.978501</POSITION>
+        <POSITION>32.604968 44.000777</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFMPNZ--------X</MIL_ID>
+        <NAME>10.207</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <FILL_COLOR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string">249 211 0</FILL_COLOR>
+        <C>15</C>
+        <C_VIS>true</C_VIS>
+        <H>H MOD</H>
+        <H_VIS>true</H_VIS>
+        <N></N>
+        <N_VIS>false</N_VIS>
+        <T>T MOD</T>
+        <T_VIS>true</T_VIS>
+        <V>V MOD</V>
+        <V_VIS>true</V_VIS>
+        <W>18023831ZSEP12</W>
+        <W_VIS>true</W_VIS>
+        <Y>32.631230 44.020275</Y>
+        <Y_VIS>true</Y_VIS>
+        <Q>275</Q>
+        <Q_VIS>true</Q_VIS>
+        <POSITION>32.631230 44.020275</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFMPBCP-------X</MIL_ID>
+        <NAME>10.216</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <POSITION>32.599957 44.025949</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFMPNDB-------X</MIL_ID>
+        <NAME>10.211</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <POSITION>32.610946 44.002880</POSITION>
+    </milbobject>
+    <CREATE_TIME>1409165629</CREATE_TIME>
+    <MODIFIED_TIME>1409165629</MODIFIED_TIME>
+    <NAME>6.2 115 1-.206-10.227</NAME>
+</MODEL>

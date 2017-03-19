@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MODEL>
+    <milbobject>
+        <MIL_ID>GFFPAT--------X</MIL_ID>
+        <NAME>Area Target</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <LINE_COLOR>0 0 0</LINE_COLOR>
+        <T>Area Target</T>
+        <T_VIS>true</T_VIS>
+        <LABEL_POSITION>30.95891167 -100.02137700</LABEL_POSITION>
+        <POSITION>30.881002 -100.143226</POSITION>
+        <POSITION>30.954078 -99.694737</POSITION>
+        <POSITION>31.041655 -100.226168</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFFPATC-------X</MIL_ID>
+        <NAME>Circular Target</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <LINE_COLOR>0 0 0</LINE_COLOR>
+        <T>Circular Target</T>
+        <T_VIS>true</T_VIS>
+        <LABEL_POSITION>29.68005900 -98.65492800</LABEL_POSITION>
+        <POSITION>29.680059 -98.654928</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFFPPS--------X</MIL_ID>
+        <NAME>Fire Support Station</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <LINE_COLOR>0 0 0</LINE_COLOR>
+        <T>Fire Support Station</T>
+        <T_VIS>true</T_VIS>
+        <POSITION>31.264416 -97.572524</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFFPLL--------X</MIL_ID>
+        <NAME>Linear Target 10.171</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <LINE_COLOR>0 0 0</LINE_COLOR>
+        <T>Linear Target</T>
+        <T_VIS>true</T_VIS>
+        <POSITION>30.515666 -99.152641</POSITION>
+        <POSITION>30.816820 -98.232114</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFFPATR-------X</MIL_ID>
+        <NAME>Rectangular Target 10.175</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <LINE_COLOR>0 0 0</LINE_COLOR>
+        <LABEL_POSITION>31.41499600 -99.86290400</LABEL_POSITION>
+        <POSITION>31.414996 -99.862904</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFFPATG-------X</MIL_ID>
+        <NAME>Series or Groups of Targets</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <LINE_COLOR>0 0 0</LINE_COLOR>
+        <T>Groups of Targets</T>
+        <T_VIS>true</T_VIS>
+        <LABEL_POSITION>32.12624040 -98.05871540</LABEL_POSITION>
+        <POSITION>32.041617 -98.117132</POSITION>
+        <POSITION>31.998763 -97.997906</POSITION>
+        <POSITION>32.300255 -98.060509</POSITION>
+        <POSITION>32.189358 -97.926530</POSITION>
+        <POSITION>32.101209 -98.191500</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFFPPTS-------X</MIL_ID>
+        <NAME>Single Point Target</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <LINE_COLOR>0 0 0</LINE_COLOR>
+        <SIZE>26.0</SIZE>
+        <T>Single Point Target</T>
+        <T_VIS>true</T_VIS>
+        <POSITION>30.164374 -97.528054</POSITION>
+    </milbobject>
+    <milbobject>
+        <MIL_ID>GFGPDPT-------X</MIL_ID>
+        <NAME>Target Reference 10.115</NAME>
+        <VISIBILITY>true</VISIBILITY>
+        <LINE_COLOR>0 0 0</LINE_COLOR>
+        <POSITION>31.955857 -99.744026</POSITION>
+    </milbobject>
+    <CREATE_TIME>1410890915</CREATE_TIME>
+    <MODIFIED_TIME>1410890915</MODIFIED_TIME>
+    <NAME>Targets2222</NAME>
+</MODEL>

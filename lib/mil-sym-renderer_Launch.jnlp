@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<jnlp spec="1.0+" href="mil-sym-renderer_Launch.jnlp">
+    <information>
+        <title>SECRenderer</title>
+        <vendor>SEC</vendor>
+        <offline-allowed/>
+    </information>
+    
+    <security>
+        <all-permissions/>
+    </security>
+    
+    <resources os="Windows">
+    	<property name="jnlp.versionEnabled" value="false" />
+    </resources>
+    <resources>
+        <j2se href="http://java.sun.com/products/autodl/j2se" version="1.5+" initial-heap-size="512m" max-heap-size="512m"/>
+        <property name="sun.java2d.noddraw" value="true"/>
+            
+    <jar href="mil-sym-renderer-0.0.68.jar" main="true"/>
+    <jar href="JavaRenderer-0.0.68.jar"/>
+    <jar href="JavaRendererServer-0.0.68.jar"/>
+    <jar href="JavaLineArray-0.0.68.jar"/>
+    <jar href="JavaRendererUtils-0.0.68.jar"/>
+    <jar href="RendererPluginInterface-0.0.68.jar"/>
+
+    </resources>
+
+    <application-desc main-class="sec.web.renderer.portable.PortableWrapper">
+		<!-- Single Point Server On; default true -->
+		<!-- <argument>-spon:true</argument> -->
+		<!-- Single Point Server Port; port will increment if port is not free -->
+		<argument>-spport:6789</argument>
+		<!-- Single Point Server Backlog; default 0 lets system decide -->
+		<argument>-spbacklog:0</argument>
+		<!-- Multi Point Server On; default true -->
+		<!-- <argument>-mpon:true</argument> -->
+		<!-- Multi Point Server Port; port will increment if port is not free -->
+		<argument>-mpport:6790</argument>
+		<!-- Multi Point Server Backlog; default 0 lets system decide -->
+		<argument>-mpbacklog:0</argument>
+    <application-desc>
+    
+    
+    <!-- Width and height are overridden by the containing web page. -->
+    <!-- <applet-desc
+        name="SECRenderer"
+        main-class="sec.web.renderer.portable.PortableWrapper"
+        width="800" height="500">
+        <param name="MAYSCRIPT" value="true"/>
+        <param name="separate_jvm" value="true"/>
+    </applet-desc> -->
+</jnlp>

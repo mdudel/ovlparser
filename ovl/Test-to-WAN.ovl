@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MODEL>
+    <tacsymbol>
+        <MIL_ID>SFGPUCA--------</MIL_ID>
+        <NAME>Armor</NAME>
+        <POSITION>38.646116 -84.883548</POSITION>
+    </tacsymbol>
+    <CREATE_TIME>1410540930</CREATE_TIME>
+    <MODIFIED_TIME>1410540930</MODIFIED_TIME>
+    <NAME>Test to WAN</NAME>
+</MODEL>
